@@ -1,1 +1,5 @@
 .Rproj.user/
+.Rhistory
+renv/library/
+renv/sandbox/
+renv/staging/
